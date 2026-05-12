@@ -25,7 +25,7 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 
 ## 📂 Featured Projects
 
-- **RAG-based AI System**
+- **AI Travel Planner**
 - **Smart Street Light System**
 - **Portfolio Website**
 
@@ -36,7 +36,7 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 
 - Email: pragnia12@gmail.com  
 - GitHub: https://github.com/pragnia  
-- LinkedIn: [(add your link)](https://www.linkedin.com/in/p-pragnia)
+- LinkedIn: https://www.linkedin.com/in/p-pragnia
 
 ---
 
